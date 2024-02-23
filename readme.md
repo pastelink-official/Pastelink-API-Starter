@@ -20,6 +20,11 @@ cd to the project folder
 
 ````python -m venv.````
 
+Activate the env.
+
+On windows: ./.venv/Scripts/activate
+On Linux: source ./.venv/bin/activate
+
 ````pip install -r 'requirements.txt'````
 
 Copy the env.example
