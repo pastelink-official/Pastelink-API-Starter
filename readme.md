@@ -23,6 +23,7 @@ cd to the project folder
 Activate the env.
 
 On windows: ./.venv/Scripts/activate
+
 On Linux: source ./.venv/bin/activate
 
 ````pip install -r 'requirements.txt'````
